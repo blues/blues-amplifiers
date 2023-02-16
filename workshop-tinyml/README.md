@@ -2,10 +2,10 @@
 
 *This is a "canned" workshop that utilizes existing resources from Blues, Datacake, and Edge Impulse to build a compelling end-to-end ML + IoT + Cloud workshop experience.*
 
-- [Topics Covered](workshop-tinyml#topics-covered)
-- [Hardware Requirements](workshop-tinyml#hardware-requirements)
-- [Software Installations](workshop-tinyml#software-installations)
-- [Workshop Agenda](workshop-tinyml#workshop-agenda)
+- [Topics Covered](#topics-covered)
+- [Hardware Requirements](#hardware-requirements)
+- [Software Installations](#software-installations)
+- [Workshop Agenda](#workshop-agenda)
 
 ## Topics Covered
 
